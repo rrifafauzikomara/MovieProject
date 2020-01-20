@@ -1,6 +1,6 @@
 package osg.id.movieproject.data.remote;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import osg.id.movieproject.adapter.Contract;
 import osg.id.movieproject.data.MovieDataSource;

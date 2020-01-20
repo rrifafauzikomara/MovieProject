@@ -1,6 +1,6 @@
 package osg.id.movieproject.data.local;
 
-import android.arch.persistence.room.Dao;
+import androidx.room.Dao;
 
 @Dao
 public interface MoviesDao {
